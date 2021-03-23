@@ -55,7 +55,7 @@ content:
   - title: Werkervaring # Title for the section
     layout: list # Type of content section (list/text)
     content:
-     - layout: left
+      - layout: left
         title: Continental Automotive Benelux BV
         link: continental.com
         # link_text: boringcompany.com
