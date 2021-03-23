@@ -83,14 +83,15 @@ content:
         caption: 2014 - 2016
         sub_title: Master IIW
         description: | # this will include new lines to allow paragraphs
-          Master Industriële Ingenieurswetenschappen Manufacturing Engineering  
-          bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
+          Master Industriële Ingenieurswetenschappen Manufacturing Engineering
+        newline: >
+          : bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: KU Leuven
         caption: 2011 - 2015
         sub_title: Bachelor IIW
         description: | # this will include new lines to allow paragraphs
-          Bachelor Industriële Ingenieurswetenschappen Elektromechanica  
+          Bachelor Industriële Ingenieurswetenschappen Elektromechanica 
           bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: Sint-Gabrielcollege
