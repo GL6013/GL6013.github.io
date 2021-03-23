@@ -84,8 +84,7 @@ content:
         sub_title: Master IIW
         description: | # this will include new lines to allow paragraphs
           Master Industriële Ingenieurswetenschappen Manufacturing Engineering
-        newline: >
-          : bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
+          bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: KU Leuven
         caption: 2011 - 2015
