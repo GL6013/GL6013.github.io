@@ -58,14 +58,14 @@ content:
       - layout: left
         title: Continental Automotive Benelux BV
         link: continental.com
-        # link_text: boringcompany.com
+        # link_text: continental.com
         sub_title: Specialist Industrial Engineering Conditioning Area & PLV assembly 
-        caption: November 2016 - Present
+        caption: November 2016 - Nu
         quote: >
           The future in motion!
         description: | # this will include new lines to allow paragraphs
-          Als werkvoorbereider IE heb ik technical ownership over twee productiezones. Hierbij sta ik in voor de continuïteit van de afdeling waardoor volgende zaken tot mijn takenpakket behoren: 
-          Projecten uitwerken van A tot Z, Optimalisatiestudies (takttijd verbeteringen), PLC aanpassingen, Ondersteuning voor zowel kwaliteit als productie, intern en extern onderhoud coördineren, digitaliseren en verder automatiseren.
+          "Als werkvoorbereider IE heb ik technical ownership over twee productiezones. Hierbij sta ik in voor de continuïteit van de afdeling waardoor volgende zaken tot mijn takenpakket behoren: 
+          Projecten uitwerken van A tot Z, Optimalisatiestudies (takttijd verbeteringen), PLC aanpassingen, Ondersteuning voor zowel kwaliteit als productie, intern en extern onderhoud coördineren, digitaliseren en verder automatiseren."
       - layout: left
         title: Caradon Stelrad N.V.
         link: stelrad.eu
