@@ -83,24 +83,21 @@ content:
         caption: 2014 - 2016
         sub_title: Master IIW
         description: | # this will include new lines to allow paragraphs
-          Master Industriële Ingenieurswetenschappen Manufacturing Engineering 
-          
+          Master Industriële Ingenieurswetenschappen Manufacturing Engineering <br/> 
           bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: KU Leuven
         caption: 2011 - 2015
         sub_title: Bachelor IIW
         description: | # this will include new lines to allow paragraphs
-          Bachelor Industriële Ingenieurswetenschappen Elektromechanica 
-          
+          Bachelor Industriële Ingenieurswetenschappen Elektromechanica <br/>   
           bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: Sint-Gabrielcollege
         caption: 2005 - 2011
         sub_title: ASO
         description: | # this will include new lines to allow paragraphs
-          Wetenschappen Wiskunde 6u 
-          
+          Wetenschappen Wiskunde 6u <br/> 
           op het Sint-Gabrielcollege te Boechout.
           
   - title: A Little More About Me
