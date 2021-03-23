@@ -9,6 +9,7 @@ version: 2
 name: Glenn Livens
 title: Specialist Industrial Engineering 
 email: glennlivens@hotmail.com
+phone: +32 (0)474/33.67.68
 website: https://GL6013.github.io
 
 # Dark Mode (true/false/never)
@@ -22,7 +23,7 @@ darkmode: false
 # facebook_username: jekyll
 # flickr_username: jekyll
 # instagram_username: jameswgrant
-linkedin_username: glenn livens
+linkedin_username: glennlivens
 # xing_username: jekyll
 # pinterest_username: jekyll
 # youtube_username: globalmtb
