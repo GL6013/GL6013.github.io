@@ -57,7 +57,7 @@ content:
     content:
       - layout: left
         title: Continental Automotive Benelux BV
-        link: continental.com
+        link: www.continental.com
         # link_text: continental.com
         sub_title: Specialist Industrial Engineering Conditioning Area & PLV assembly 
         caption: November 2016 - Nu
@@ -68,7 +68,7 @@ content:
           Projecten uitwerken van A tot Z, Optimalisatiestudies (takttijd verbeteringen), PLC aanpassingen, Ondersteuning voor zowel kwaliteit als productie, intern en extern onderhoud coördineren, digitaliseren en verder automatiseren."
       - layout: left
         title: Caradon Stelrad N.V.
-        link: stelrad.eu
+        link: www.stelrad.eu
         # link_text: boringcompany.com
         sub_title: Masterthesis student
         caption: 2015 - 2016
