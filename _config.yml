@@ -112,9 +112,11 @@ content:
         caption: 2016 - NU
         sub_title: "On-the-job"
         description: | # this will include new lines to allow paragraph.
-         - Veiligheid: VOL/VCA (HaCeCo)
-         - Automatisatie: Basisopleiding FANUC (Anttec), Siemens S7-300 PLC basis en foutdiagnose (Anttec), TIA Portal WinCC (SITrain Siemens), EPLAN electric P8 (LimTec)
-         - Programmeren: Basis SQL en DB (ie-net), C# fundamentals (Syntra), UiPath Developer Foundation (UiPath Academy)
+         Veiligheid: VOL/VCA (HaCeCo)
+         
+         Automatisatie: Basisopleiding FANUC (Anttec), Siemens S7-300 PLC basis en foutdiagnose (Anttec), TIA Portal WinCC (SITrain Siemens), EPLAN electric P8 (LimTec)
+         
+         Programmeren: Basis SQL en DB (ie-net), C# fundamentals (Syntra), UiPath Developer Foundation (UiPath Academy)
       - layout: left
         title: KU Leuven
         caption: 2014 - 2016
