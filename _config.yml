@@ -89,7 +89,7 @@ content:
       - layout: left
         title: Digitalisatie
         description: | # this will include new lines to allow paragraphs
-          - Programmeren: Visual Studio 2013-2019, basisprogramma's in VB.NET, C# vb. 2 Keyence scanners triggeren om DMC's te lezen en info wegschrijven naar SQL DB.
+          - "Programmeren: Visual Studio 2013-2019, basisprogramma's in VB.NET, C# vb. 2 Keyence scanners triggeren om DMC's te lezen en info wegschrijven naar SQL DB."
       - layout: left
         title: Sint-Gabrielcollege
         caption: 2005 - 2011
