@@ -47,8 +47,9 @@ linkedin_username: glennlivens
 about_title: Over Mij
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
-  flexibele uren en weekendwerk niet erg. Alsook is reizen voor korte periodes geen probleem.
+  "Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
+  flexibele uren en weekendwerk niet erg zolang een gezonde work-life balans behouden kan blijven. Alsook is reizen voor korte periodes geen probleem.
+  Mijn professionele interesses zijn: projecten rond automatisatie (PLC/HMI/SCADA, robotica, digitalisatie, ...), optimaliseren en analyseren van productieprocessen."
 content:
   - title: Werkervaring # Title for the section
     layout: list # Type of content section (list/text)
