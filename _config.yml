@@ -1,5 +1,5 @@
 # Site
-repository: GL6013.github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -48,10 +48,7 @@ about_title: Over Mij
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
-  flexibele uren en weekendwerk niet erg als een gezonde work-life balans behouden blijft. Alsook is reizen voor korte periodes geen probleem.
-  Mijn professionele interesses zijn: projecten rond automatisatie (PLC/HMI/SCADA, robotica, digitalisatie, ...), optimaliseren en analyseren van productieprocessen. 
-
-
+  flexibele uren en weekendwerk niet erg. Alsook is reizen voor korte periodes geen probleem.
 content:
   - title: Werkervaring # Title for the section
     layout: list # Type of content section (list/text)
@@ -75,29 +72,6 @@ content:
         caption: 2015 - 2016
         description: | # this will include new lines to allow paragraphs
             Ontwerp maken voor laskop beugellasmachine (sterkteberekeningen, EEM-analyse, technische tekeningen, kostenraming), ontwerp realiseren, ontwerp testen, resultatenverwerking.
-
-- title: Skills # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Automatisatie
-        description: | # this will include new lines to allow paragraphs
-          - "PLC: TwinCAT 2, TwinCAT 3, TIA Portal V13-V16 S7, STEP7 simatic manager"
-            - test
-          - "HMI: TwinCAT 3 Visualisation, WinCC Flex 2008, TIA Portal WinCC"
-          - "voorbeeldprojecten: Omzetten tekst gebaseerde HMI siemens protool naar volledige procesvisualisatie in TIA Portal WinCC, Integreren SQL database voor het loggen van procesparameters in TwinCAT 3, PLC wijzigen door volledig nieuwe koelgaggregaten in te programmeren."
-      - layout: left
-        title: Digitalisatie
-        description: | # this will include new lines to allow paragraphs
-          - "Programmeren: Visual Studio 2013-2019, basisprogramma's in VB.NET, C# vb. 2 Keyence scanners triggeren om DMC's te lezen en info wegschrijven naar SQL DB."
-      - layout: left
-        title: Sint-Gabrielcollege
-        caption: 2005 - 2011
-        sub_title: ASO
-        description: | # this will include new lines to allow paragraphs
-          Wetenschappen Wiskunde 6u  
-          op het Sint-Gabrielcollege te Boechout.
-          
   - title: Opleidingen # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -126,8 +100,13 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      
-
+      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
+      - Rock climbing
+      - Gaming
+      - Knitting
+      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      Look at this cool image  
+      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
