@@ -11,7 +11,7 @@ title: Industrieel Ingenieur Elektromechanica
 email: glennlivens@hotmail.com
 address: Boechout, Antwerpen
 birthday: 06/04/1993
-phone: +32 (0)474/33.67.68
+GSM: +32 (0)474/33.67.68
 website: https://GL6013.github.io
 
 # Dark Mode (true/false/never)
@@ -56,6 +56,35 @@ about_content: | # this will include new lines to allow paragraphs
   
   Mijn andere interesses zijn: Sporten (Fietsen, Fitness, snowboarden, hiken), Reizen, Koken, ...
 content:
+  - title: Skills # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Automatisatie
+        description: | # this will include new lines to allow paragraphs
+          - Beckhoff TwinCAT 2 / TwinCAT 3 (vb. foutdiagnose, Hardware toevoegen en procesparameters productielijn wegschrijven naar SQL DB)
+          - Siemens TIA Portal S7, Simatic Manager STEP 7 (vb. Koelaggregaten inprogrammeren in bestaande machine)
+          - Siemens WinCC (vb. Protool tekst gebaseerd HMI's omzetten naar WinCC volledige procesvisualisaties)
+          - FANUC: teachen en programmawijzigingen robots, basis simulaties in ROBOGUIDE
+          - Visie: Cognex, Keyence, Balluff (wijzigingen in bestaande visieprogramma's)
+          - Programmeren: Visual Studio - VB.NET, C# (WinForms, MVC), HTML, CSS (vb. Webpagina voor tonen MS SQL database, Automatiseren van resultaatverwerking metingen naar kwaliteitssysteem, Aansturen Keyence scanners en DMC gegevens wegschrijven naar Oracle DB.
+          
+      - layout: left
+        title: KU Leuven
+        caption: 2011 - 2015
+        sub_title: Bachelor IIW
+        description: | # this will include new lines to allow paragraphs
+          Bachelor Industriële Ingenieurswetenschappen Elektromechanica
+          
+          bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
+      - layout: left
+        title: Sint-Gabrielcollege
+        caption: 2005 - 2011
+        sub_title: ASO
+        description: | # this will include new lines to allow paragraphs
+          Wetenschappen Wiskunde 6u
+          
+          op het Sint-Gabrielcollege te Boechout.
   - title: Werkervaring # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -87,32 +116,25 @@ content:
         sub_title: Master IIW
         description: | # this will include new lines to allow paragraphs
           Master Industriële Ingenieurswetenschappen Manufacturing Engineering
+          
           bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: KU Leuven
         caption: 2011 - 2015
         sub_title: Bachelor IIW
         description: | # this will include new lines to allow paragraphs
-          Bachelor Industriële Ingenieurswetenschappen Elektromechanica 
+          Bachelor Industriële Ingenieurswetenschappen Elektromechanica
+          
           bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
       - layout: left
         title: Sint-Gabrielcollege
         caption: 2005 - 2011
         sub_title: ASO
         description: | # this will include new lines to allow paragraphs
-          Wetenschappen Wiskunde 6u  
+          Wetenschappen Wiskunde 6u
+          
           op het Sint-Gabrielcollege te Boechout.
           
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 # Footer
 footer_show_references: true
 # references_title: References on request (Override references text)
