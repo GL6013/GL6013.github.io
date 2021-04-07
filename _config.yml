@@ -1,5 +1,5 @@
 # Site
-repository: GL6013.github.io
+repository: sproogen/resume-theme
 favicon: images/favicon.ico
 
 # Content configuration version
@@ -82,10 +82,10 @@ content:
       - layout: left
         title: Automatisatie
         description: | # this will include new lines to allow paragraphs
-          - PLC: TwinCAT 2, TwinCAT 3, TIA Portal V13-V16 S7, STEP7 simatic manager
+          - "PLC: TwinCAT 2, TwinCAT 3, TIA Portal V13-V16 S7, STEP7 simatic manager"
             - test
-          - HMI: TwinCAT 3 Visualisation, WinCC Flex 2008, TIA Portal WinCC
-          - voorbeeldprojecten: Omzetten tekst gebaseerde HMI siemens protool naar volledige procesvisualisatie in TIA Portal WinCC, Integreren SQL database voor het loggen van procesparameters in TwinCAT 3, PLC wijzigen door volledig nieuwe koelgaggregaten in te programmeren.
+          - "HMI: TwinCAT 3 Visualisation, WinCC Flex 2008, TIA Portal WinCC"
+          - "voorbeeldprojecten: Omzetten tekst gebaseerde HMI siemens protool naar volledige procesvisualisatie in TIA Portal WinCC, Integreren SQL database voor het loggen van procesparameters in TwinCAT 3, PLC wijzigen door volledig nieuwe koelgaggregaten in te programmeren."
       - layout: left
         title: Digitalisatie
         description: | # this will include new lines to allow paragraphs
