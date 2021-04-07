@@ -49,10 +49,11 @@ about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
   flexibele uren en weekendwerk niet erg zolang een gezonde work-life balans behouden kan blijven. Alsook is reizen voor korte periodes geen probleem.
-   Mijn professionele interesses zijn: 
+  Mijn professionele interesses zijn: 
   - Projecten rond automatisatie (PLC/HMI/SCADA, robotica, digitalisatie, ...)
   - Optimaliseren en analyseren van productieprocessen.
   - Toepassen van en op de hoogte blijven over de nieuwste technologiën
+  
   Mijn andere interesses zijn: Sporten (Fietsen, Fitness, snowboarden, hiken), Reizen, Koken, ...
 content:
   - title: Werkervaring # Title for the section
