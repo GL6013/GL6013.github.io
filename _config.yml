@@ -6,34 +6,33 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Glenn Livens
+title: Industrieel Ingenieur Elektromechanica
+email: glennlivens@hotmail.com
+address: Boechout, Antwerpen
+birthday: 06/04/1993
+GSM: +32 (0)474/33.67.68
+website: https://GL6013.github.io
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+# twitter_username: facespics
+# github_username:  sproogen
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+# instagram_username: jameswgrant
+linkedin_username: glennlivens
 # xing_username: jekyll
 # pinterest_username: jekyll
-youtube_username: globalmtb
+# youtube_username: globalmtb
 # googleplus_username: +jekyll
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-additional_links:
-- title: itsgoingto.be
-  icon: fas fa-globe
-  url: https://www.itsgoingto.be
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -45,76 +44,107 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
+about_title: Over Mij
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
-
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
-
+  Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
+  flexibele uren en weekendwerk niet erg zolang een gezonde work-life balans behouden kan blijven. Alsook is reizen voor korte periodes geen probleem.
+  Mijn professionele interesses zijn: 
+  - Projecten rond automatisatie (PLC/HMI/SCADA, robotica, digitalisatie, ...)
+  - Optimaliseren en analyseren van productieprocessen.
+  - Toepassen van en op de hoogte blijven over de nieuwste technologiën
+  
+  Mijn andere interesses zijn: Sporten (Fietsen, Fitness, snowboarden, hiken), Reizen, Koken, ...
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
-  - title: Experience # Title for the section
+  - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
+        title: Automatisatie
+        description: | # this will include new lines to allow paragraphs
+          - Beckhoff TwinCAT 2 / TwinCAT 3 (vb. foutdiagnose, Hardware toevoegen en procesparameters productielijn wegschrijven naar SQL DB)
+          - Siemens TIA Portal S7, Simatic Manager STEP 7 (vb. foutdiagnose, Koelaggregaten inprogrammeren in bestaande machine)
+          - Siemens WinCC (vb. Protool tekst gebaseerd HMI's omzetten naar WinCC volledige procesvisualisaties)
+          - FANUC: teachen en programmawijzigingen robots, basis simulaties in ROBOGUIDE
+          - Visie: Cognex, Keyence, Balluff (wijzigingen in bestaande visieprogramma's)
+          - CAD: EPLAN electric P8
+          
+      - layout: left
+        title: Digitalisatie
+        description: | # this will include new lines to allow paragraphs
+          - Programmeren: Visual Studio - VB.NET, C# (WinForms, MVC), HTML, CSS (vb. Webpagina voor tonen MS SQL database, 
+          Automatiseren van resultaatverwerking metingen naar kwaliteitssysteem, Aansturen Keyence scanners en DMC gegevens wegschrijven naar Oracle DB.)
+          - Smart tools: KNIME, RPA - UiPath (Developer Foundation cursus)
+          - Office 365: Outlook, Teams, Word, Excel, PowerPoint, OneNote, PowerApps
+          
+      - layout: left
+        title: Andere
+        description: | # this will include new lines to allow paragraphs
+          - Soft-Skills: leergierig, initiatief nemend, analytisch/ problem solving
+          - Talen: Nederlands (Moedertaal), Engels (Goed), Frans (Basis), Duits (Basis)
+  - title: Werkervaring # Title for the section
+    layout: list # Type of content section (list/text)
+    content:
+      - layout: left
+        title: Continental Automotive Benelux BV
+        link: https://www.continental.com/en?lang=be
+        # link_text: continental.com
+        sub_title: Specialist Industrial Engineering Conditioning Area & PLV assembly 
+        caption: November 2016 - Nu
+        quote: >
+          The future in motion!
+        description: | # this will include new lines to allow paragraphs
+          "Als werkvoorbereider IE heb ik technical ownership over twee productiezones. Hierbij sta ik in voor de continuïteit van de afdeling waardoor volgende zaken tot mijn takenpakket behoren: 
+          Projecten uitwerken van A tot Z, Optimalisatiestudies (takttijd verbeteringen), PLC aanpassingen, Ondersteuning voor zowel kwaliteit als productie, intern en extern onderhoud coördineren, digitaliseren en verder automatiseren."
+      - layout: left
+        title: Caradon Stelrad N.V.
+        link: www.stelrad.eu
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        sub_title: Masterthesis student
+        caption: 2015 - 2016
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
-
-  - title: Education # Title for the section
+            Ontwerp maken voor laskop beugellasmachine (sterkteberekeningen, EEM-analyse, technische tekeningen, kostenraming), ontwerp realiseren, ontwerp testen, resultatenverwerking.
+  - title: Opleidingen # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: Certificaten
+        caption: 2016 - NU
+        sub_title: "On-the-job"
+        description: | # this will include new lines to allow paragraph.
+         Veiligheid: VOL/VCA (HaCeCo)
+         
+         Automatisatie: Basisopleiding FANUC (Anttec), Siemens S7-300 PLC basis en foutdiagnose (Anttec), TIA Portal WinCC (SITrain Siemens), EPLAN electric P8 (LimTec)
+         
+         Programmeren: Basis SQL en DB (ie-net), C# fundamentals (Syntra), UiPath Developer Foundation (UiPath Academy)
+      - layout: left
+        title: KU Leuven
+        caption: 2014 - 2016
+        sub_title: Master IIW
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
-
+          Master Industriële Ingenieurswetenschappen Manufacturing Engineering
+          
+          bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
+      - layout: left
+        title: KU Leuven
+        caption: 2011 - 2015
+        sub_title: Bachelor IIW
+        description: | # this will include new lines to allow paragraphs
+          Bachelor Industriële Ingenieurswetenschappen Elektromechanica
+          
+          bij Technologiecampus De Nayer in Sint-Katelijne-Waver.
+      - layout: left
+        title: Sint-Gabrielcollege
+        caption: 2005 - 2011
+        sub_title: ASO
+        description: | # this will include new lines to allow paragraphs
+          Wetenschappen Wiskunde 6u
+          
+          op het Sint-Gabrielcollege te Boechout.
+          
 # Footer
 footer_show_references: true
-# references_title: References on request (Override references text)
+references_title: Referenties op aanvraag
 
 # Build settings
 remote_theme: sproogen/resume-theme
