@@ -12,6 +12,7 @@ email: glennlivens@hotmail.com
 #address: Boechout, Antwerpen
 birthday: 06/04/1993
 phone: +32 (0)474/33.67.68
+phone_title: GSM
 website: https://GL6013.github.io
 
 # Dark Mode (true/false/never)
@@ -47,7 +48,7 @@ linkedin_username: glennlivens
 about_title: Over Mij
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
+  Ik ben Glenn, geboren in 06/04/1993 en woon in Boechout, Antwerpen. Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
   flexibele uren (af en toe shiften of weekend) en reizen voor korte periodes niet erg zolang een gezonde work-life balans behouden kan blijven.
   
   Mijn professionele interesses zijn: 
