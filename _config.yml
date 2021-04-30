@@ -9,7 +9,7 @@ version: 2
 name: Glenn Livens
 title: Industrieel Ingenieur Elektromechanica
 email: glennlivens@hotmail.com
-address: Boechout, Antwerpen
+#address: Boechout, Antwerpen
 birthday: 06/04/1993
 phone: +32 (0)474/33.67.68
 website: https://GL6013.github.io
@@ -48,13 +48,14 @@ about_title: Over Mij
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Ik zou mezelf beschrijven als betrouwbaar, gemotiveerd en met een gezonde ambitie. Ik vind
-  flexibele uren en reizen voor korte periodes niet erg zolang een gezonde work-life balans behouden kan blijven.
+  flexibele uren (af en toe shiften of weekend) en reizen voor korte periodes niet erg zolang een gezonde work-life balans behouden kan blijven.
+  
   Mijn professionele interesses zijn: 
   - Projecten rond automatisatie (PLC/HMI/SCADA, robotica, digitalisatie, ...)
   - Optimaliseren en analyseren van productieprocessen.
   - Toepassen van en op de hoogte blijven over de nieuwste technologiën
   
-  Mijn andere interesses zijn: Sporten (Fietsen, Fitness, snowboarden, hiken), Reizen, Koken, ...
+  Mijn andere interesses zijn: Sporten (Fietsen, Fitness, Snowboarden, Hiken), Reizen, ...
 content:
   - title: Skills # Title for the section
     layout: list # Type of content section (list/text)
@@ -74,13 +75,13 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Programmeren: Visual Studio - VB.NET, C# (WinForms, MVC), HTML, CSS (vb. Webpagina voor tonen MS SQL database, 
           Automatiseren van resultaatverwerking metingen naar kwaliteitssysteem, Aansturen Keyence scanners en DMC gegevens wegschrijven naar Oracle DB.)
-          - Smart tools: KNIME, RPA - UiPath (Developer Foundation cursus), PowerBI 
+          - Smart tools: KNIME, RPA - UiPath, PowerBI 
           - Office 365: Outlook, Teams, Word, Excel, PowerPoint, OneNote, PowerApps
           
       - layout: left
         title: Andere
         description: | # this will include new lines to allow paragraphs
-          - Soft-Skills: leergierig, initiatief nemend, analytisch/ problem solving
+          - Soft-Skills: Leergierig, initiatief nemend, analytisch/ problem solving
           - Talen: Nederlands (Moedertaal), Engels (Zeer Goed), Frans (Basis), Duits (Basis)
   - title: Werkervaring # Title for the section
     layout: list # Type of content section (list/text)
