@@ -15,7 +15,7 @@ phone: +32 (0)474/33.67.68
 website: https://GL6013.github.io
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: false
 
 # Social links
 # twitter_username: facespics
@@ -33,9 +33,9 @@ linkedin_username: glennlivens
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
+- title: CV
+  icon: images/favicon.ico
+  url: images/profile.jpg
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -74,7 +74,7 @@ content:
         description: | # this will include new lines to allow paragraphs
           - Programmeren: Visual Studio - VB.NET, C# (WinForms, MVC), HTML, CSS (vb. Webpagina voor tonen MS SQL database, 
           Automatiseren van resultaatverwerking metingen naar kwaliteitssysteem, Aansturen Keyence scanners en DMC gegevens wegschrijven naar Oracle DB.)
-          - Smart tools: KNIME, RPA - UiPath (Developer Foundation cursus)
+          - Smart tools: KNIME, RPA - UiPath (Developer Foundation cursus), PowerBI 
           - Office 365: Outlook, Teams, Word, Excel, PowerPoint, OneNote, PowerApps
           
       - layout: left
