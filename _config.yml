@@ -33,9 +33,9 @@ linkedin_username: glennlivens
 # orcid_username: 0000-0000-0000-0000
 
 # Additional icon links
-- title: CV
-  icon: images/favicon.ico
-  url: images/profile.jpg
+# - title: CV
+#   icon: images/favicon.ico
+#   url: images/profile.jpg
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
